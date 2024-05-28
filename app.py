@@ -234,5 +234,5 @@ st.area_chart(area_chart_data)
 # Final Remarks
 st.subheader("That's it! 🎉")
 st.caption("""
-We hope you enjoyed exploring the basics of Streamlit with our 'Hello, World!' app. Now that you've seen how easy and powerful Streamlit can be, we encourage you to start building your own data apps. Happy coding!
+We hope you enjoyed exploring the basics of Streamlit with our 'Hello, World!' app. Now that you've seen how easy and powerful Streamlit can be, we encourage you to start building your own data apps. Happy coding! Team Keboola 💙
 """)
